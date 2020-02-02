@@ -1,5 +1,5 @@
 <?php
-include "conecxaobd2.inc";
+include "conecxaobd.inc";
 
 
 ?>
